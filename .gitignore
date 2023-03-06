@@ -1,0 +1,7 @@
+/vendor/
+/php-cs-fixer.php
+/phpstan.neon
+/phpunit.xml
+/rector.php
+/var
+!/var/.gitkeep
